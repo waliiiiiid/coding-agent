@@ -1,0 +1,2 @@
+make all the variables in the form PWC_Var_variablename
+for example PWC_VAR_x 
